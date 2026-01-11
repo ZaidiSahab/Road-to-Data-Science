@@ -1,2 +1,14 @@
 Given Data = Training Data
+
 Testing Data 
+
+
+Training and test data split:
+
+Training and test data split divides a dataset into two parts: the training set (e.g., 70-80%) used to teach the machine learning model patterns, and the test set (e.g., 20-30%) kept separate to evaluate the model's performance on unseen data, preventing overfitting and ensuring it generalizes well in real-world scenarios
+
+
+
+Machine learning:
+
+Machine learning (ML) is a branch of artificial intelligence (AI) that trains algorithms on data to recognize patterns, make predictions, and improve performance on tasks without being explicitly programmed for every scenario, essentially allowing computers to learn from experience and data.

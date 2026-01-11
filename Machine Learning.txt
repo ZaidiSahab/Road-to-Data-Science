@@ -12,3 +12,10 @@ Training and test data split divides a dataset into two parts: the training set 
 Machine learning:
 
 Machine learning (ML) is a branch of artificial intelligence (AI) that trains algorithms on data to recognize patterns, make predictions, and improve performance on tasks without being explicitly programmed for every scenario, essentially allowing computers to learn from experience and data.
+
+
+Logistic regression is a supervised machine learning algorithm used for classification, predicting a discrete outcome (like yes/no, spam/not spam) by modeling the probability of an event using the sigmoid function, which squashes any input into a probability between 0 and 1, making it ideal for binary classification problems. Unlike linear regression, which predicts continuous values, logistic regression estimates the likelihood of an input belonging to a specific category based on its features. 
+
+
+ChatGPT is not a logistic regression [1]. Logistic regression is a simple, traditional statistical algorithm used for binary classification tasks (predicting one of two outcomes, such as "yes" or "no"). 
+ChatGPT, on the other hand, is a complex, modern large language model (LLM) based on the transformer architecture [1, 2

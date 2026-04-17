@@ -1,7 +1,7 @@
 # Road-to-Data-Science
 I will become a Data Scientist at the end of January 2026 - I will code daily  (Inshallah)
 
-# 🛍️ Customer Shopping Trends Analysis – Data Analytics Portfolio Project
+# 🛍️ Customer Shopping Trends Analysis – Data Analytics/ Data Science Portfolio Project
 
 ## 📌 Project Overview
 

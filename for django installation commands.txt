@@ -1,0 +1,9 @@
+Activation of VENV:
+	.\.venv\Scripts\activate
+
+To check if Tkinter is installed ir not 
+	python -m tkinter
+
+To run the server of manage.py  
+	python manage.py runserver
+
